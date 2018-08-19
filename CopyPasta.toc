@@ -16,9 +16,9 @@
 ## X-LoadOn-Always: delayed
 ## X-LoadOn-Slash: /paste
 ## X-Curse-Packaged-Version: 1.1.1
-## X-Curse-Project-Name: Paste
-## X-Curse-Project-ID: paste
-## X-Curse-Repository-ID: wow/paste/mainline
+## X-Curse-Project-Name: CopyPasta
+## X-Curse-Project-ID: copypasta
+## X-Curse-Repository-ID: wow/copypasta/mainline
 
 embeds.xml
 
