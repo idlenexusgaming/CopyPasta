@@ -1,7 +1,7 @@
 -- my custom locale file - more streamlined than AceLocale and no lib dependency
 
 -- To help with missing translations please go here:
-local url = "http://www.wowace.com/addons/paste/localization/"
+local url = "https://wow.curseforge.com/projects/copypasta/localization/"
 
 local addonName, vars = ...
 local Ld, La = {}, {}
